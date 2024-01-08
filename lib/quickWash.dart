@@ -30,6 +30,11 @@ class _quickWashState extends State<quickWash> {
 
         var services=snapshot.data;
 
+
+
+
+
+
         return Scaffold(
           appBar: AppBar(
             backgroundColor: colorPage.backgroundColor,
