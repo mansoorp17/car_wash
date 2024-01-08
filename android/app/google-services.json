@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660803128429",
+    "project_id": "quickwash-fb84c",
+    "storage_bucket": "quickwash-fb84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660803128429:android:caffbe64b929f1922e4364",
+        "android_client_info": {
+          "package_name": "com.example.car_wash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAiTnuIBkso_iySFr7U4TK9dT1Ldiy77A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
